@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir /tmp/alx
-=======
-mkdir /tmp/alx
->>>>>>> 1971b67e5036861f2fff55d5a20186db05790d8f
