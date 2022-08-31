@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -lna
+=======
+ls -lna
+>>>>>>> 76fb0292fdc168f0768ce0df4f0db6f15cb7d4e7
