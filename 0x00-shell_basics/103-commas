@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -xamp
-=======
-ls -xamp
->>>>>>> f5e621731ba4432a37f92f44d22ae310031df398
