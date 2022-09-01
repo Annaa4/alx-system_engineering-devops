@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir -p welcome/to/holberton
-=======
-mkdir -p welcome/to/holberton
->>>>>>> e80aa6416105200e54caf8ba7dda7fa225d119ec
+mkdir -p welcome/to/alx
