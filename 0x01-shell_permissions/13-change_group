@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chgrp school hello
+=======
+chgrp school hello
+>>>>>>> fd1ffd9bfe9836a894c0a271fbe5d547eef04785
