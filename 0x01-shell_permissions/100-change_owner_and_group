@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 chown -R vincent:staff ./
-=======
-chown -R vincent:staff ./
->>>>>>> e8f38212df09baee040e15474c561c218b6a80f3
