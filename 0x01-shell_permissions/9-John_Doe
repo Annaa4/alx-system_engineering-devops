@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 753 hello
+=======
+chmod 753 hello
+>>>>>>> 6a627a846b9d0cf10e2d32dfc87b899c3a695c9c
