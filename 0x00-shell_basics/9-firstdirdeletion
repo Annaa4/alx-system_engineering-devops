@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 rm -r /tmp/my_first_directory
-=======
-rm -r /tmp/my_first_directory
->>>>>>> f9f85fbb6e44615bd58f48a1813d350edd5dc77d
