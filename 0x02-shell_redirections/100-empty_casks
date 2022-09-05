@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 find . -empty -printf "%f\n"
-=======
-find . -empty -printf "%f\n"
->>>>>>> 59ef8dbb7a4c6d1e28c09f4aa21456fad9af875b
