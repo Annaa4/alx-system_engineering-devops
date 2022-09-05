@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 sort | uniq -u
-=======
-sort | uniq -u
->>>>>>> bf073b4a39389dadd18bfa8bf7ee8da2509c48c4
