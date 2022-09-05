@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo -e "Holberton School"  >> "\\*\\\\'\"Holberton School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
-=======
-echo -e "Holberton School"  >> "\\*\\\\'\"Holberton School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
->>>>>>> 1da2bb3135ee926b5c35063b18c1059c760baefa
