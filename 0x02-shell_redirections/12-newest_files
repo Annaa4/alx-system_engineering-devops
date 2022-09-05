@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -t . | head
-=======
-ls -t . | head
->>>>>>> 53cdd3bfb3bd9de430e36bee04f26f74bbada8a8
