@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 egrep 'root' /etc/passwd
-=======
-egrep 'root' /etc/passwd
->>>>>>> 282b15af8c06eacd29aebae128f21c2755ff70da
