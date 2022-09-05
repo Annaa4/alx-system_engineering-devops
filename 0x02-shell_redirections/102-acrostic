@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "$(cut -c 1 | tr -d '\n')"
-=======
-echo "$(cut -c 1 | tr -d '\n')"
->>>>>>> 890657f99ffadfe0395b3287dac3f622f2d8f8b0
