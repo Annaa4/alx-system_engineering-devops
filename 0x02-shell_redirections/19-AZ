@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr 'Ac' 'Ze'
+=======
+tr 'Ac' 'Ze'
+>>>>>>> c12e492a08ef8ac7922e8d3dc25a5df3d924885d
