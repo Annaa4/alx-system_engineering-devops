@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 tail /etc/passwd
-=======
-#!/bin/bash
-tail /etc/passwd
->>>>>>> 7d2ab728e8201db49ef2ef1f8bc07a484eb8afa5
