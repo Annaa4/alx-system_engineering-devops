@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo hello $USER
+=======
+echo hello $USER
+>>>>>>> 1ebc227c8edf52d80ba21614729d5b1f8fb3aecc
