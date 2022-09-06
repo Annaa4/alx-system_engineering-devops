@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $(printf $PATH | tr ":" "\n" | wc -w)
-=======
-echo $(printf $PATH | tr ":" "\n" | wc -w)
->>>>>>> 2dd4b375dc95fb240ca71b269a3e699112b1f481
