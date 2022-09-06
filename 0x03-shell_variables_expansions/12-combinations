@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo {a..z}{a..z} | tr " " "\n" | egrep -v "oo"
+=======
+echo {a..z}{a..z} | tr " " "\n" | egrep -v "oo"
+>>>>>>> d2ad95fbb77026fdc16be4c65972e01c4b6df19a
