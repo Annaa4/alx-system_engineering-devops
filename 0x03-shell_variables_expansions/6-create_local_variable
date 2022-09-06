@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 BETTY="Holberton"
+=======
+BETTY="Holberton"
+>>>>>>> 77c3a66371ecbb7391158e7c236f669a6a1e5ffc
