@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 set | less
+=======
+set | less
+>>>>>>> 4f78a59d49476d04c2fc8d8c270a971205d679f1
