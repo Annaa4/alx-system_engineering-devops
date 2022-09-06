@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $((BREATH**LOVE))
+=======
+echo $((BREATH**LOVE))
+>>>>>>> ace10787b236704c8e688cc09c088c8e374824a8
