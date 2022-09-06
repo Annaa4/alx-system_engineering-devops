@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat -n | cut -c6- | grep -vP "[02468]\t" | cut -f2
+=======
+cat -n | cut -c6- | grep -vP "[02468]\t" | cut -f2
+>>>>>>> c7814cabf5696c6f06c302c85ee4851f94febc13
